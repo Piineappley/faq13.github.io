@@ -1,0 +1,25 @@
+body {
+  background-image: url(/1774383687750.png);
+  background-size: 250px;
+  font-family: "Courier New", Courier, monospace;
+  font-style: italic;
+  text-align: center;
+  zoom: 140%;
+}
+
+h1,
+p,
+h2 {
+  background-color: chocolate;
+  text-justify: auto;
+}
+
+img {
+  width: 120px; /* Sets a fixed width */
+  height: 100px; /* Sets a fixed height */
+}
+
+button {
+  border-radius: 10px;
+  background-color: aqua;
+}
